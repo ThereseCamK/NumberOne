@@ -15,7 +15,7 @@ img{
 .main{
     text-align: center;
 }
-@media screen and  (max-width: 400px) {
+@media screen and  (max-width: 450px) {
     img{
         box-shadow: goldenrod 10px 10px 25px;
         border-radius: 50%;
