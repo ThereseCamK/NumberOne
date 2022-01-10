@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: goldenrod;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 5px 5px 20px goldenrod;
+}
+img{
+    box-shadow: goldenrod 10px 10px 25px;
+    border-radius: 50%;
+}
+.main{
+    text-align: center;
+}
