@@ -9,6 +9,8 @@ h1{
 img{
     box-shadow: goldenrod 10px 10px 25px;
     border-radius: 50%;
+    height: 700px;
+    width: 700px;
 }
 .main{
     text-align: center;
